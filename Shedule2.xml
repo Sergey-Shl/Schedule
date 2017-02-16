@@ -290,7 +290,7 @@
     </day>
     <day name = "Пятница">
         <subject
-            name = "Тест"
+            name = "Программное обеспечение вычислительных сетей"
             subjectNum = "1"
             time1h = "7"
             time1m = "30"
