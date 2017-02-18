@@ -332,16 +332,6 @@
     </day>
     <day name = "Суббота">
         <subject
-            name = "БЖД"
-            subjectNum = "1"
-            time1h = "8"
-            time1m = "0"
-            classroom = "6350"
-            lecturer = "Елькин Анатолий Борисович"
-            additionalInfo = "четная неделя (лаб)"
-            weekType = "p">
-        </subject>
-        <subject
             name = "Базы данных"
             subjectNum = "2"
             time1h = "9"
