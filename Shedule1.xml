@@ -22,6 +22,16 @@
             weekType = "2, 6, 14, 19">
         </subject>
         <subject
+            name = "Криптография"
+            subjectNum = "1"
+            time1h = "7"
+            time1m = "30"
+            classroom = "5412"
+            lecturer = "Жевнерчук Дмитрий Валерьевич"
+            additionalInfo = "нечетная"
+            weekType = "o">
+        </subject>
+        <subject
             name = "Прикладная теория информации"
             subjectNum = "2"
             time1h = "9"
@@ -30,6 +40,16 @@
             lecturer = "Ломакин Дмитрий Викторович"
             additionalInfo = "1гр - 2, 6, 14, 19"
             weekType = "2, 6, 14, 19">
+        </subject>
+        <subject
+            name = "Криптография"
+            subjectNum = "2"
+            time1h = "9"
+            time1m = "20"
+            classroom = "5412"
+            lecturer = "Жевнерчук Дмитрий Валерьевич"
+            additionalInfo = "нечетная"
+            weekType = "o">
         </subject>
         <subject
             name = "Операционные системы"
