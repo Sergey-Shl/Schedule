@@ -250,4 +250,6 @@
             weekType = "e">
         </subject>
     </day>
+    <day name = "Суббота">
+    </day>
 </data>
