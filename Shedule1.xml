@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Расписание для второй подгруппы -->
+<!-- Расписание для первой подгруппы -->
 <data>
     <!-- 6 февраля 2017 года - первый учебный день -->
     <!-- weekType: e - каждую неделю (everyWeek), o - нечетная (odd), p - четная (parity) -->
@@ -37,7 +37,7 @@
             time1h = "11"
             time1m = "10"
             classroom = "5426"
-            lecturer = "Кто-то"
+            lecturer = "Утробин Владимир Александрович"
             additionalInfo = "3, 7, 11, 15"
             weekType = "3, 7, 11, 15">
         </subject>
@@ -45,49 +45,49 @@
             name = "Методы и средства обработки сигнала"
             subjectNum = "2"
             time1h = "13"
-            time1m = "0"
+            time1m = "15"
             classroom = "5426"
-            lecturer = "Кто-то"
+            lecturer = "Утробин Владимир Александрович"
             additionalInfo = "3, 7, 11, 15"
             weekType = "3, 7, 11, 15">
         </subject>
 		<subject
-            name = "Кон. тех. об"
+            name = "Конструкторско-технологическое обеспечение проектирования"
             subjectNum = "3"
             time1h = "11"
             time1m = "10"
             classroom = "5422"
-            lecturer = "Кто-то"
+            lecturer = "Макаров Николай Николаевич"
             additionalInfo = "4, 8, 12, 16"
             weekType = "4, 8, 12, 16">
         </subject>
         <subject
-            name = "Кон. тех. об"
+            name = "Конструкторско-технологическое обеспечение проектирования"
             subjectNum = "4"
             time1h = "13"
-            time1m = "00"
+            time1m = "15"
             classroom = "5422"
-            lecturer = "Кто-то"
+            lecturer = "Макаров Николай Николаевич"
             additionalInfo = "4, 8, 12, 16"
             weekType = "4, 8, 12, 16">
         </subject>
 		<subject
-            name = "Апп-прог"
+            name = "Аппаратно-програмнмное обеспечение интегрированных систем"
             subjectNum = "1"
-            time1h = "14"
-            time1m = "50"
+            time1h = "15"
+            time1m = "0"
             classroom = "5422"
-            lecturer = "Кто-то"
+            lecturer = "Саладаев Евгений Николаевич"
             additionalInfo = "5, 9, 13, 17"
             weekType = "5, 9, 13, 17">
         </subject>
         <subject
-            name = "Апп-прог"
+            name = "Аппаратно-програмнмное обеспечение интегрированных систем"
             subjectNum = "2"
             time1h = "16"
-            time1m = "35"
+            time1m = "45"
             classroom = "5422"
-            lecturer = "Кто-то"
+            lecturer = "Саладаев Евгений Николаевич"
             additionalInfo = "5, 9, 13, 17"
             weekType = "5, 9, 13, 17">
         </subject>
@@ -107,7 +107,7 @@
             name = "Интерфейсы периферийных устройств"
             subjectNum = "2"
             time1h = "13"
-            time1m = "0"
+            time1m = "15"
             classroom = "3207"
             lecturer = "Киселев Юрий Николаевич"
             additionalInfo = "лекция"
@@ -116,10 +116,10 @@
         <subject
             name = "Методы и средства обработки сигнала"
             subjectNum = "3"
-            time1h = "14"
-            time1m = "50"
+            time1h = "15"
+            time1m = "0"
             classroom = "3207"
-            lecturer = "Утробин В. А."
+            lecturer = "Утробин Владимир Александрович"
             additionalInfo = "лекция"
             weekType = "e">
         </subject>
@@ -127,9 +127,9 @@
             name = "Методы и средства обработки сигнала"
             subjectNum = "4"
             time1h = "16"
-            time1m = "35"
+            time1m = "45"
             classroom = "3207"
-            lecturer = "Утробин В. А."
+            lecturer = "Утробин Владимир Александрович"
             additionalInfo = "нечетная неделя"
             weekType = "o">
         </subject>
@@ -141,7 +141,7 @@
             time1h = "7"
             time1m = "30"
             classroom = "5422"
-            lecturer = "Кто-то"
+            lecturer = "Макаров Николай Николаевич"
             additionalInfo = "5, 9, 13, 17"
             weekType = "5, 9, 13, 17">
         </subject>
@@ -151,7 +151,7 @@
             time1h = "9"
             time1m = "20"
             classroom = "5422"
-            lecturer = "Кто-то"
+            lecturer = "Макаров Николай Николаевич"
             additionalInfo = "5, 9, 13, 17"
             weekType = "5, 9, 13, 17">
         </subject>
@@ -169,7 +169,7 @@
             name = "Интерфейсы периферийных устройств"
             subjectNum = "2"
             time1h = "13"
-            time1m = "0"
+            time1m = "15"
             classroom = "5412"
             lecturer = "Киселев Юрий Николаевич"
             additionalInfo = "четная неделя"
@@ -183,27 +183,27 @@
             time1h = "11"
             time1m = "10"
             classroom = "1327"
-            lecturer = "Кто-то"
+            lecturer = "Макаров Николай Николаевич"
             additionalInfo = "четная неделя"
             weekType = "p">
         </subject>
         <subject
-            name = "Апп-прог обеспечение"
+            name = "Аппаратно-програмнмное обеспечение интегрированных систем"
             subjectNum = "2"
             time1h = "13"
-            time1m = "0"
+            time1m = "15"
             classroom = "1327"
-            lecturer = "Саладаев Е. Н."
+            lecturer = "Саладаев Евгений Николаевич"
             additionalInfo = ""
             weekType = "e">
         </subject>
         <subject
             name = "Защита информации"
             subjectNum = "3"
-            time1h = "14"
-            time1m = "50"
+            time1h = "15"
+            time1m = "0"
             classroom = "3207"
-            lecturer = "Шагалова"
+            lecturer = "Шагалова Полина Анатольевна"
             additionalInfo = "потоковая лекция"
             weekType = "e">
         </subject>
@@ -213,7 +213,7 @@
             time1h = "16"
             time1m = "35"
             classroom = "4403"
-            lecturer = "Шагалова"
+            lecturer = "Шагалова Полина Анатольевна"
             additionalInfo = "лабораторная (3, 7, 11, 15)"
             weekType = "3, 7, 11, 15">
         </subject>
@@ -223,19 +223,19 @@
             time1h = "17"
             time1m = "45"
             classroom = "4403"
-            lecturer = "Шагалова"
+            lecturer = "Шагалова Полина Анатольевна"
             additionalInfo = "лабораторная (3, 7, 11, 15)"
             weekType = "3, 7, 11, 15">
         </subject>
     </day>
     <day name = "Пятница">
         <subject
-            name = "Кон-тех обеспечение пр-ва ЭВМ"
+            name = "Конструкторско-технологическое обеспечение проектирования ЭВМ и комплексов"
             subjectNum = "1"
             time1h = "11"
-            time1m = "10"
+            time1m = "35"
             classroom = "6419"
-            lecturer = "Макаров Н. Н."
+            lecturer = "Макаров Николай Николаевич"
             additionalInfo = "лекция"
             weekType = "e">
         </subject>
@@ -243,7 +243,7 @@
             name = "Программное обеспечение вычислительных сетей"
             subjectNum = "2"
             time1h = "13"
-            time1m = "0"
+            time1m = "40"
             classroom = "6419"
             lecturer = "Кочешков Александр Александрович"
             additionalInfo = "лекция"
@@ -251,5 +251,6 @@
         </subject>
     </day>
     <day name = "Суббота">
+       
     </day>
 </data>
