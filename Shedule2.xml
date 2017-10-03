@@ -155,11 +155,11 @@
             additionalInfo = "5, 9, 13, 17"
             weekType = "5, 9, 13, 17">
         </subject>
-        <subject
+	<subject
             name = "Интерфейсы периферийных устройств"
             subjectNum = "1"
-            time1h = "11"
-            time1m = "10"
+            time1h = "7"
+            time1m = "30"
             classroom = "5412"
             lecturer = "Киселев Юрий Николаевич"
             additionalInfo = "четная неделя"
@@ -168,8 +168,8 @@
         <subject
             name = "Интерфейсы периферийных устройств"
             subjectNum = "2"
-            time1h = "13"
-            time1m = "15"
+            time1h = "9"
+            time1m = "20"
             classroom = "5412"
             lecturer = "Киселев Юрий Николаевич"
             additionalInfo = "четная неделя"
