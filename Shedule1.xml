@@ -18,7 +18,7 @@
             time1m = "20"
             classroom = "5412"
             lecturer = "Зеленский Владимир Павлович"
-            additionalInfo = "A, 1, 3, 5"
+            additionalInfo = "лабы (A, 1, 3, 5)"
             weekType = "1, 3, 5, 7">
         </subject>
         <subject
@@ -28,7 +28,7 @@
             time1m = "10"
             classroom = "5412"
             lecturer = "Зеленский Владимир Павлович"
-            additionalInfo = "A, 1, 3, 5"
+            additionalInfo = "лабы (A, 1, 3, 5)"
             weekType = "1, 3, 5, 7">
         </subject>
     </day>
@@ -40,7 +40,7 @@
             time1m = "10"
             classroom = "5422"
             lecturer = "Макаров Николай Николаевич"
-            additionalInfo = "A, 5"
+            additionalInfo = "лабы(1, 5) (Костя сказал)"
             weekType = "3, 7">
         </subject>
 		<subject
@@ -50,7 +50,7 @@
             time1m = "15"
             classroom = "5422"
             lecturer = "Макаров Николай Николаевич"
-            additionalInfo = "A, 5"
+            additionalInfo = "лабы(1, 5) (Костя сказал)"
             weekType = "3, 7">
         </subject>
         <subject
@@ -58,9 +58,9 @@
             subjectNum = "3"
             time1h = "15"
             time1m = "0"
-            classroom = "3207"
+            classroom = "5412"
             lecturer = "Никулин Евгений Александрович"
-            additionalInfo = "B, 4"
+            additionalInfo = "лабы (B, 4)"
             weekType = "2, 6">
         </subject>
     </day>
@@ -72,7 +72,7 @@
             time1m = "30"
             classroom = "5412"
             lecturer = "Викулова Елена Николаевна"
-            additionalInfo = "чётная неделя"
+            additionalInfo = "лекция"
             weekType = "p">
         </subject>
         <subject
@@ -112,7 +112,7 @@
             time1m = "10"
             classroom = "3208"
             lecturer = "Кочешков Александр Александрович"
-            additionalInfo = "лекция"
+            additionalInfo = "лабы"
             weekType = "p">
         </subject>
 		<subject
@@ -120,7 +120,7 @@
             subjectNum = "4"
             time1h = "13"
             time1m = "15"
-            classroom = "3208"
+            classroom = "5426"
             lecturer = "Кочешков Александр Александрович"
             additionalInfo = "лекция"
             weekType = "p">
@@ -134,7 +134,7 @@
             time1m = "10"
             classroom = "5412"
             lecturer = "Викулова Елена Николаевна"
-            additionalInfo = "A, 5"
+            additionalInfo = "лабы (1, 5)"
             weekType = "3, 7">
         </subject>
 		<subject
@@ -144,7 +144,7 @@
             time1m = "15"
             classroom = "5412"
             lecturer = "Викулова Елена Николаевна"
-            additionalInfo = "A, 5"
+            additionalInfo = "лабы (1, 5)"
             weekType = "3, 7">
         </subject>
         <subject
@@ -154,7 +154,7 @@
             time1m = "50"
             classroom = "5426"
             lecturer = "Кочешков Александр Александрович"
-            additionalInfo = "чётная"
+            additionalInfo = "лабы"
             weekType = "p">
         </subject>
         <subject
@@ -164,7 +164,7 @@
             time1m = "35"
             classroom = "5426"
             lecturer = "Кочешков Александр Александрович"
-            additionalInfo = "чётная"
+            additionalInfo = "лабы"
             weekType = "p">
         </subject>
     </day>
