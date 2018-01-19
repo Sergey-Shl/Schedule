@@ -72,7 +72,7 @@
             time1m = "30"
             classroom = "5412"
             lecturer = "Викулова Елена Николаевна"
-            additionalInfo = "лекция"
+            additionalInfo = "четная неделя (лекция)"
             weekType = "p">
         </subject>
         <subject
@@ -82,8 +82,8 @@
             time1m = "30"
             classroom = "5412"
             lecturer = "Викулова Елена Николаевна"
-            additionalInfo = "нечётная неделя"
-            weekType = "o">
+            additionalInfo = "четная неделя (практика)"
+            weekType = "p">
         </subject>
         <subject
             name = "Компьютерная графика"
@@ -102,7 +102,7 @@
             time1m = "10"
             classroom = "4303"
             lecturer = "Макаров Николай Николаевич"
-            additionalInfo = "нечётная неделя"
+            additionalInfo = "лекция, нечётная неделя"
             weekType = "o">
         </subject>
 		<subject
@@ -134,8 +134,8 @@
             time1m = "10"
             classroom = "5412"
             lecturer = "Викулова Елена Николаевна"
-            additionalInfo = "лабы (1, 5)"
-            weekType = "3, 7">
+            additionalInfo = "четная неделя"
+            weekType = "p">
         </subject>
 		<subject
             name = "Надёжность ЭВМ и систем"
@@ -144,8 +144,8 @@
             time1m = "15"
             classroom = "5412"
             lecturer = "Викулова Елена Николаевна"
-            additionalInfo = "лабы (1, 5)"
-            weekType = "3, 7">
+            additionalInfo = "четная неделя"
+            weekType = "p">
         </subject>
         <subject
             name = "Администрирование систем и сетей"
@@ -172,26 +172,26 @@
         <subject
             name = "Правоведение"
             subjectNum = "1"
-            time1h = "9"
-            time1m = "45"
+            time1h = "8"
+            time1m = "00"
             classroom = "6410"
             lecturer = "Дабагян Анна Артемовна"
-            additionalInfo = "лекция"
+            additionalInfo = "практика"
             weekType = "p">
         </subject>
 		<subject
             name = "Правоведение"
-            subjectNum = "1"
+            subjectNum = "2"
             time1h = "9"
             time1m = "45"
             classroom = "6410"
             lecturer = "Дабагян Анна Артемовна"
-            additionalInfo = "упражнение"
-            weekType = "o">
+            additionalInfo = "упражнения"
+            weekType = "p">
         </subject>
         <subject
             name = "Администрирование систем и сетей"
-            subjectNum = "2"
+            subjectNum = "3"
             time1h = "11"
             time1m = "35"
             classroom = "6412"
@@ -201,7 +201,7 @@
         </subject>
 		<subject
             name = "Системы хранения данных"
-            subjectNum = "3"
+            subjectNum = "4"
             time1h = "13"
             time1m = "40"
             classroom = "6510"
@@ -211,7 +211,7 @@
         </subject>
 		<subject
             name = "Основы программирования ПЛИС"
-            subjectNum = "4"
+            subjectNum = "5"
             time1h = "15"
             time1m = "25"
             classroom = "6412"
